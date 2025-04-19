@@ -1,0 +1,2 @@
+# Data-Driven-Exploration-of-Mobile-App-Market-Across-Countries-using-EDA-
+"Scraped 999 app records from AppBrain using requests, regex, and BeautifulSoup, capturing 7 features. Cleaned and standardized data with NumPy and Pandas, boosting accuracy by 15%. Conducted univariate, bivariate, and multivariate analysis with Matplotlib and Seaborn, uncovering key trends and insights for strategic decisions."
